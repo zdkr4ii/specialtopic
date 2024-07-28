@@ -1,0 +1,30 @@
+item {
+  id: 1
+  name: 'Blue Dasher'
+}
+
+item {
+  id: 2
+  name: 'Common Flangetail'
+}
+
+item {
+  id: 3
+  name: 'Common Redbolt'
+}
+
+item {
+  id: 4
+  name: 'Spin-Tufted Skimmer'
+}
+
+item {
+  id: 5
+  name: 'Trumpet Tail'
+}
+
+item {
+  id: 6
+  name: 'Wandering Gliders'
+}
+
